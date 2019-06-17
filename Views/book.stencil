@@ -1,0 +1,6 @@
+<html>
+  <p> Id:     {{ id }}   </p>
+  <p> Title: {{ title }} </p>
+  <p> Price: {{ price }} </p>
+  <p> Genre: {{ genre }} </p>
+</html>
